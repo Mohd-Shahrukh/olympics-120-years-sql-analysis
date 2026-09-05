@@ -132,7 +132,7 @@ olympics-sql-analysis/
 
 ## 👤 Author
 
-**Abhishek Singhaniya**
+**Mohammad Shahrukh**
 
 Data Analyst / Business Analyst Portfolio
 
